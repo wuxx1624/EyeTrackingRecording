@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f7854d6c9b365894eb40b254ce1c1f34
+timeCreated: 1424278189
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pieceStart: {fileID: 11423038, guid: 0ac5d4fb40803a54194d161919cb4bd1, type: 2}
+  - pieceFinish: {fileID: 11423038, guid: c94b95591637e9148b9cd4304c3b4542, type: 2}
+  - pieceEmpty: {fileID: 11458810, guid: 4cc4c2c01745d1f4b977041893ba4d41, type: 2}
+  - pieceLine: {fileID: 11400000, guid: 277579cba588a3b4f960e59ef0bb2211, type: 2}
+  - pieceDeadLock: {fileID: 11400000, guid: d2d986080c104174383bbd9a4e351973, type: 2}
+  - pieceTriple: {fileID: 11400000, guid: 66bbfa243a8c4c243a9b5813f3d7c10a, type: 2}
+  - pieceCorner: {fileID: 11400000, guid: 407680eac28598545a1eb0d0fcae7227, type: 2}
+  - pieceCross: {fileID: 11400000, guid: 5225465eb51106245a40b515a03615db, type: 2}
+  - pieceDoubleCorner: {fileID: 11400000, guid: 4cebdd0b7780844418b126b9bb51642b,
+      type: 2}
+  - pieceIntersection: {fileID: 11400000, guid: 6a0c9d836e0203e408fc901faf39a6ba,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

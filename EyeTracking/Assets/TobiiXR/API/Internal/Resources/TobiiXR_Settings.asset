@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 198ed005030e25047bd6bf1a66b39d3f, type: 3}
+  m_Name: TobiiXR_Settings
+  m_EditorClassIdentifier: 
+  EyeTrackingFilterType: 
+  FieldOfUse: 1
+  EyeTrackingProviderTypeStandAlone: TobiiHTCProvider
+  EyeTrackingProviderTypeAndroid: Tobii.XR.NoseDirectionProvider
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  HowLongToKeepCandidatesInSeconds: 1
+  TobiiSDKEulaAccepted: 1
